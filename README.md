@@ -1,12 +1,10 @@
 ### Hi there 👋
 <p align="center">
-<a href="https://github.com/anuraghazra/github-readme-stats" >
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=xblack-shadow&show_icons=true&hide_border=true" />
-</a>
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=xblack-shadow&show_icons=true&hide_border=true)
 </p>
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
+
 
 
 <!--
