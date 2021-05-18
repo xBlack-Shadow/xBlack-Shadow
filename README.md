@@ -4,7 +4,7 @@
 </p>
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=xblack-shadow&show_icons=true&hide_border=true)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=xblack-shadow&show_icons=true&hide_border=true)
 
 
 <!--
