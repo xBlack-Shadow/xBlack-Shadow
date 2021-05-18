@@ -1,13 +1,11 @@
 ### Hi there 👋
-
-<a href="url"><img src="https://blacks.uber.space/assets/img/demon-glitch.gif" height="auto" width="200" style="border-radius:50%"></a>
-
-<a href="https://github.com/anuraghazra/github-readme-stats">
+<p align="center">
+<a href="https://github.com/anuraghazra/github-readme-stats" >
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=xblack-shadow&show_icons=true&theme=chartreuse-dark" />
 </a>
+</p>
 
 <!--
-**xBlack-Shadow/xBlack-Shadow** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
