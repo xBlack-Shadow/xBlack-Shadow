@@ -4,7 +4,7 @@
 </p>
 
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=xblack-shadow&show_icons=true&hide_border=true)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=xblack-shadow&show_icons=true&hide_border=true&count_private=true)
 
 
 <!--
@@ -20,7 +20,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
-<a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xblack-shadow&layout=compact" />
-</a>
 -->
